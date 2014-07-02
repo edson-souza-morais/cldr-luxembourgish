@@ -3226,9 +3226,9 @@
 			</metazone>
 			<metazone type="Mongolia">
 				<long>
-					<generic>Ulaanbaatar-Zäit</generic>
-					<standard>Ulaanbaatar-Normalzäit</standard>
-					<daylight>Ulaanbaatar-Summerzäit</daylight>
+					<generic>Ulan-Bator-Zäit</generic>
+					<standard>Ulan-Bator-Normalzäit</standard>
+					<daylight>Ulan-Bator-Summerzäit</daylight>
 				</long>
 			</metazone>
 			<metazone type="Moscow">
